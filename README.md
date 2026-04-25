@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Olá! Eu sou a Mariana Nogueira, mas pode me chamar de Mari :)
 
-<!--
-**nmalves-dev/nmalves-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas, e atualmente atuo com foco direto em
+análise de dados, python, dashboards e automação de processos.
 
-Here are some ideas to get you started:
+### 🧠 Tecnologias e ferramentas
+- Python (em curso)
+- SQL (em curso)
+- Excel (avançado)
+- Power BI (tratamento de dados e dashboards, em curso)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Sobre este GitHub
+Este GitHub reúne meus estudos e projetos práticos,
+organizados por tema, com foco em desenvolvimento técnico contínuo
+e aplicação real dos conhecimentos.
+
+### 🚀 Objetivo profissional
+Me aprofundar em Python aplicado a dados, análises de dados, e automações de processos e rotinas.
+
+#🔗LinkedIn: https://www.linkedin.com/in/mariana-n-628934226/
