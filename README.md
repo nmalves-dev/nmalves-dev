@@ -17,4 +17,4 @@ e aplicação real dos conhecimentos.
 ### 🚀 Objetivo profissional
 Me aprofundar em Python aplicado a dados, análises de dados, e automações de processos e rotinas.
 
-#🔗LinkedIn: https://www.linkedin.com/in/mariana-n-628934226/
+🔗LinkedIn: https://www.linkedin.com/in/mariana-n-628934226/
