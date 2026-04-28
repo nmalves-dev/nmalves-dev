@@ -6,7 +6,7 @@ análise de dados, python, dashboards e automação de processos.
 ### 🧠 Tecnologias e ferramentas
 - Python (em curso)
 - SQL (em curso)
-- Excel (avançado)
+- Excel 
 - Power BI (tratamento de dados e dashboards, em curso)
 
 ### 📊 Sobre este GitHub
