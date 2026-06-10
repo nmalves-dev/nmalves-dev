@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou a Mariana Nogueira, mas pode me chamar de Mari :)
+## 👋 Olá, Eu sou a Mariana Nogueira!
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, e atualmente atuo com foco direto em
 análise de dados, Python, dashboards e automação de processos.
