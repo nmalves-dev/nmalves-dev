@@ -1,8 +1,6 @@
-## 👋 Olá, eu sou a Mariana Nogueira!
+## 👋 Olá, eu sou a Mariana!
 
-Estudante de Ciências Contábeis, apaixonada por dados e por automatizar
-rotinas e processos. Este espaço reúne projetos em SQL, Power BI e Python
-aplicados a rotinas do mundo financeiro.
+Estudante de Ciências Contábeis, apaixonada por dados e por automatizar rotinas e processos financeiros. Este espaço reúne projetos em SQL, Power BI e Python aplicados à contabilidade e a operações do mercado financeiro.
 
 ### 🧠 Ferramentas em Destaque
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
